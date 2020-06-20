@@ -30,7 +30,7 @@ I tried three different models:
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 * **CBOW + RNN:** Accuracy = 80.066% 
 
-* **BOW + DNN:** Accuracy = 75.98 
+* **BOW + DNN:** Accuracy = 75.98%
 
 ## Next Step
 To improve the accuracy of the classification, I can try more different nueral network structures and try different ways to deal with the text like autoencoder.
