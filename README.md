@@ -27,7 +27,7 @@ I tried three different models:
 * **CBOW + RNN (LSTM)** - Because the order of word would affect the sentence sentiment, I thought a considering the order way like CBOW and a memorable model like long short-term memory would be effective. 
 
 ## Model performance
-The Random Forest model far outperformed the other approaches on the test and validation sets.
+The CBOW + RNN model far outperformed the other approaches on the test and validation sets.
 * **CBOW + RNN:** Accuracy = 80.066% 
 
 * **BOW + DNN:** Accuracy = 75.98%
